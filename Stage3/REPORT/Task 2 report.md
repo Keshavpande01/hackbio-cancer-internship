@@ -8,31 +8,31 @@
 
 Proteolysis is a fundamental biological process involved in the breakdown of proteins into smaller peptides or amino acids, often mediated by proteases. In glioblastoma, this pathway is crucial for tumor progression due to the role of proteolytic enzymes in:
 
-<!--[if !supportLists]-->·       <!--[endif]-->Degrading the extracellular matrix (ECM): Glioblastoma cells overexpress matrix metalloproteinases (MMPs), which degrade ECM components, facilitating the invasion of cancer cells into surrounding tissues. Increased MMP expression is correlated with poor prognosis and aggressive tumor behavior .
+<!--[if !supportLists]-->· <!--[endif]-->Degrading the extracellular matrix (ECM): Glioblastoma cells overexpress matrix metalloproteinases (MMPs), which degrade ECM components, facilitating the invasion of cancer cells into surrounding tissues. Increased MMP expression is correlated with poor prognosis and aggressive tumor behavior .
 
-<!--[if !supportLists]-->·       <!--[endif]-->Activating growth factors: Proteolysis also contributes to activating pro-tumorigenic growth factors such as transforming growth factor-beta (TGF-β), further driving glioblastoma cell proliferation and invasion .
+<!--[if !supportLists]-->·  <!--[endif]-->Activating growth factors: Proteolysis also contributes to activating pro-tumorigenic growth factors such as transforming growth factor-beta (TGF-β), further driving glioblastoma cell proliferation and invasion .
 
-<!--[if !supportLists]-->·       <!--[endif]-->Dysregulated apoptosis: Caspase-dependent proteolysis, essential in normal apoptosis, is often dysregulated in glioblastoma, leading to evasion of cell death, which contributes to therapy resistance .
+<!--[if !supportLists]-->·  <!--[endif]-->Dysregulated apoptosis: Caspase-dependent proteolysis, essential in normal apoptosis, is often dysregulated in glioblastoma, leading to evasion of cell death, which contributes to therapy resistance .
 
 **2 ) GO:1901685 - Glutathione Derivative Metabolic Process**
 
 This pathway includes the metabolism of the glutathione (GSH) derivatives and its metabolic processes, which are important for cell detoxification and the redox balance in cells of glioblastoma tumors. Some of them are:
 
-<!--[if !supportLists]-->·       <!--[endif]-->**Redox regulation:** Bacterial cells possess the ability to generate fast-proliferating reactive oxygen species bacteria (ROS). As a result of this oxidative stress, glutathione system including GSH and its derivatives gets upregulated and this upregulation provides a selective advantage for survival .
+<!--[if !supportLists]-->·  <!--[endif]-->**Redox regulation:** Bacterial cells possess the ability to generate fast-proliferating reactive oxygen species bacteria (ROS). As a result of this oxidative stress, glutathione system including GSH and its derivatives gets upregulated and this upregulation provides a selective advantage for survival .
 
-<!--[if !supportLists]-->·       <!--[endif]-->**Modeling Chemotherapy Resistance in Human Glioblastomas**: One reason might be scavenging of the drugs by elevated glutathione metabolism in glioblastoma, as GSH is known to protect against oxidative stresses caused by drugs. This is one of the reasons why temozolomide and radiotherapy fail .
+<!--[if !supportLists]-->·  <!--[endif]-->**Modeling Chemotherapy Resistance in Human Glioblastomas**: One reason might be scavenging of the drugs by elevated glutathione metabolism in glioblastoma, as GSH is known to protect against oxidative stresses caused by drugs. This is one of the reasons why temozolomide and radiotherapy fail .
 
-<!--[if !supportLists]-->·       <!--[endif]-->**Glutathione S-transferases (GSTs):** Along with this, gliobatoma cells also overexpress other glutathione detoxifying enzymes, whose specific relevance is the ability to conjugate harmful electrophilic compounds, which improves further the detoxification and resistance to **chemotherapy.**
+<!--[if !supportLists]-->·  <!--[endif]-->**Glutathione S-transferases (GSTs):** Along with this, gliobatoma cells also overexpress other glutathione detoxifying enzymes, whose specific relevance is the ability to conjugate harmful electrophilic compounds, which improves further the detoxification and resistance to **chemotherapy.**
 
 **3 ) 3. GO:1901687 - Glutathione Derivative Biosynthesis**
 
 This pathway encompasses the synthesis processes of glutathione derivatives which is important in the regulation of redox balance and oxidative stress in gbm:
 
-<!--[if !supportLists]-->·       <!--[endif]-->GSH conjugates: Glioblastoma cells promote the synthesis of GSH conjugates to detoxify the metabolites and chemotherapeutic drugs. This overexpression is an important strategy employed by glioblastoma to evade treatment.
+<!--[if !supportLists]-->·  <!--[endif]-->GSH conjugates: Glioblastoma cells promote the synthesis of GSH conjugates to detoxify the metabolites and chemotherapeutic drugs. This overexpression is an important strategy employed by glioblastoma to evade treatment.
 
-<!--[if !supportLists]-->·       <!--[endif]-->NADPH dependence: The NADPH-producing biosynthetic machinery is responsible for these cellular reductions and this cofactor nadph comes from sources such as the pentose phosphate pathway ppp. NADPH is often produced in excess in glioblastoma cells to meet the increased requirement of GSH biosynthesis.
+<!--[if !supportLists]-->·  <!--[endif]-->NADPH dependence: The NADPH-producing biosynthetic machinery is responsible for these cellular reductions and this cofactor nadph comes from sources such as the pentose phosphate pathway ppp. NADPH is often produced in excess in glioblastoma cells to meet the increased requirement of GSH biosynthesis.
 
-<!--[if !supportLists]-->·       <!--[endif]-->Metabolic reprogramming: Glucose metabolic reprogramming is characteristic of glioblastoma as well as other processes such as the enhancement of the synthesis of glutathione derivatives. These processes are aimed at supporting the antioxidant capacity of the tumor which is another aspect of its aggressiveness.
+<!--[if !supportLists]-->·  <--[endif]-->Metabolic reprogramming: Glucose metabolic reprogramming is characteristic of glioblastoma as well as other processes such as the enhancement of the synthesis of glutathione derivatives. These processes are aimed at supporting the antioxidant capacity of the tumor which is another aspect of its aggressiveness.
 
  
 
